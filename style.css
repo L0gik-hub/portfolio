@@ -1,0 +1,51 @@
+body{
+    margin:0;
+    padding:0
+}
+
+nav li{
+    display:inline-block;
+    margin-right:80px;
+    font-size:30px;
+}
+
+nav a {
+
+text-decoration: none;
+color: black; 
+font-size: 30px;
+
+}
+
+h1{
+    text-align: center;
+    color:orangered;
+}
+
+p{
+    font-size:20px;
+}
+
+#home{
+    padding-bottom: 50px;
+}
+
+#about{
+    padding-bottom: 50px;
+}
+
+#project{
+    padding-bottom: 50px;
+}
+
+/* img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+} */
+
+#project ul li{
+    
+    font-size: 20px;
+
+}
